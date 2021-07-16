@@ -1,0 +1,64 @@
+Research:
+
+1. What is HTML?
+2. What is the difference between the <strong> and <b> HTML tags?
+3. What is a URL?
+4. What is the meaning of a href?
+5. What Does Attribute Mean?
+6. What is src code?
+7. What is semantic elements in HTML?
+8. What is the difference between <section> and <div> in HTML? Aren't we defining sections in both cases?
+9. Why Meta Tags Are Used In HTML?
+10.How many version of HTML are there?
+
+
+
+Answer:
+
+1. HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions.
+
+2. Both the <b> and <strong> tag are same in looking, but <b> tag makes the content inside it as bold only, where as <strong> make tag makes the content inside it as bold and also tell the web browser that text inside this tag is important, this makes helps in Search Engine Optimization.
+
+3. With Hypertext and HTTP, URL (Uniform Resource Locator) is one of the key concepts of the Web. It is the mechanism used by browsers to retrieve any published resource on the web. URL stands for Uniform Resource Locator
+
+4. (Hypertext REFerence) The HTML code used to create a link to another page. The HREF is an attribute of the anchor tag, which is also used to identify sections within a document. The HREF contains two components: the URL, which is the actual link, and the clickable text that appears on the page, called the "anchor text."
+
+5. In general, an attribute is a characteristic. In HTML, an attribute is a characteristic of a page element, such as font size or color. Attributes are used to amplify a tag. When a Web browser interprets an HTML tag, it will also look for its attributes so that it can display the Web page's elements properly.
+
+6. The HTML <source> src attribute is used to specify the URL of the media resource. The source element is used as a child element of the <audio> and <video> element. ... Absolute URL: It points to another webpage. Relative URL: It points to other files of the same web page.
+
+7. Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+8. <section> means that the content inside is grouped (i.e. relates to a single theme), and should appear as an entry in an outline of the page.<div>, on the other hand, does not convey any meaning, aside from any found in its class, lang and title attributes.
+
+9. The meta tag is information about data. Metadata will not be displayed on the application, but it will be machine parsable. These elements are typically used to specify page description, keywords, page title, author name of the document, and other metadata.The metadata is used by web browsers (how to display content or reload the page), search engines (keywords), or other web services.
+
+10. The first HTML was released in 1991 by Tim Berners-Lee. His creation has seen many updates ever since, including HTML 2.0 in 1995, HTML 3.2 in 1997, HTML 4.01 in 1999, and XHTML in 2000. Currently, the newest HTML version is HTML5 which was released in 2014.
+
+
+
+Research Link:
+
+HTML:		https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+Bold vs Strong:	https://www.quora.com/What-is-the-difference-between-the-strong-and-b-HTML-tags
+URL:		https://www.verisign.com/en_US/website-presence/online/what-is-a-url/index.xhtml
+		https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL
+
+HREF:		https://www.pcmag.com/encyclopedia/term/href
+Attribute:	https://www.techopedia.com/definition/27945/attribute-html
+SRC:		https://www.geeksforgeeks.org/html-source-src-attribute/    (use vpn for access)
+Semantic:	https://www.freecodecamp.org/news/semantic-html5-elements/
+		https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+Div vs Section:	https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div
+	https://www.w3docs.com/snippets/html/what-is-the-difference-between-section-and-div-elements.html
+
+Meta:		https://www.bestinterviewquestion.com/question/what-are-meta-tags-in-html-u5tdt26#
+HTML Version:	https://www.hostinger.com/tutorials/difference-between-html-and-html5
+
+
+
+
+
+
+
