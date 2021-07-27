@@ -1,0 +1,61 @@
+প্রশ্নঃ
+
+১. HTML কি?
+২. strong ও b ট্যাগের মাঝে পার্থক্য কি?
+৩. Url কি? কিভাবে কাজ করে এর কয়টি অংশ ও কি কি?
+৪. html Attribute  মানে কি?
+৫. Semantic ট্যাগ মানে কি?
+৬. Meta Tags কেন ইউজ করা হয়?
+
+
+
+উত্তরঃ
+
+১. “HTML হলো কম্পিউটারের এক ভাষা (computer language)”, যেটাকে website বা webpages তৈরি করার জন্য ব্যবহার করা হয়। এবং, webpages গুলোকে রং রূপ দেওয়ার জন্য “CSS” ব্যবহার করা হয়। বিভিন্ন ধরণের আলাদা আলাদা webpages বা web document তৈরি করার ক্ষেত্রে আলাদা আলাদা “HTML Tags” ব্যবহার করা হয়। HTML কে মার্কআপ ল্যাংগুয়েজ বলা হয় যা কতকগুলো মার্কআপ ট্যাগের সমষ্টি।
+
+২.  strong ও b ট্যাগের মাঝে পার্থক্য হলো SEO Factor. b tag টেক্সটকে শুধু বোল্ড বা গাঢ়ই করে কিন্তু strong tag টেক্সটকে গাঢ় করার পাশাপাশি Search Engine কে একটি মেসেজ দেয় যে, যে টেক্সটটি strong tag এর ভিতরে আছে সেটি গুরুত্বপূর্ণ।
+
+৩. কোন নির্দিষ্ট স্থানে পৌঁছানোর জন্য একটি ওয়েব এড্রেস ব্যবহার করা হয়। এই ওয়েব এড্রেস টিকে ইউআরএল বলা হয়।কোন নির্দিষ্ট ওয়েব সাইটে যাওয়ার জন্য এবং সেই ওয়েবসাইটটিকে ব্যবহার করার জন্য ইউ আর এল কাজে আসে। আলাদা আলাদা ওয়েবসাইটের জন্য আলাদা আলাদা ইউআরএল, প্রত্যেকটি ওয়েবসাইটকে আলাদা ঠিকানা দেয়। যার মাধ্যমে কোন ইউজার নির্দিষ্ট ওয়েবসাইটে খুব সহজ ভাবে পৌঁছে যায়।
+
+৪. কোন html ট্যাগকে শর্তসাপেক্ষে মডিফিকেশন, ম্যানিপুলেশন করে সুন্দর ও স্টালিশ বা নির্দিষ্ট ভাবে তথ্য প্রদর্শন করতে বিভিন্ন ট্যাগের মধ্যে নির্দিষ্ট নিয়মে যে শর্তযুক্ত কিছু নির্দেশ থাকে তাকে এট্রিবিউট বলে। 
+মোটকথা একটি ট্যাগ কেমন আচরণ করবে attribute সেটাই নির্দেশ করে।
+
+৫. কটি সিমেন্টিক এলিমেন্ট ব্রাউজার এবং ডেভেলপার উভয়ের কাছে স্পষ্টভাবে এর অর্থ বর্ণনা করে।সিমেন্টিক এলিমেন্ট নয় এমন কিছু এলিমেন্ট এর উদাহরণ: <div> এবং <span> এগুলো এদের ভেতরের কন্টেন্ট সম্পর্কে কোন ধারনাই দেয়না ।কিছু সিমেন্টিক এলিমেন্ট এর উদাহরণ: <aside>, <form>, <table> এবং  <article> এগুলো এদের ভেতরের কন্টেন্ট সম্পর্কে  স্পষ্ট ধারণা দেয় ।
+
+৬.সাধারণত  Meta Tag ইউজ কএ ব্রাউজারকে অতিরিক্ত তথ্য প্রধান করা হয়ে থাকে। Meta Tag এর কোনো ক্লোজিং  ট্যাগ নেই। আপনি একটি ওয়েব পেজ বানাবার সময় এক বা একাধিক Meta Tag ইউজ করতে পারেন। html এর  head ট্যাগের ভিতরে Meta Tag বসানো হয় । তবে  Meta Tag এর কোন তথ্য ব্রাউজারে প্রর্দশিত হয় না।Meta Tag ইউজের ফলে ওয়েবসাইট খুবই SEO ফ্রেন্ডলি হয়ে থাকে। ফলে সার্চ ইঞ্জিন থেকে ভিজিটর আনা অনেক সহজ হয়ে পড়ে। ম্যাটা ট্যাগ ব্যবহার এর জন্য Meta Description & Meta Keyword এর চেয়ে ভালো কোন Html ট্যাগ নাই। এই ট্যাগ দুটি সার্চ ইঞ্জিনকে আপনার সাইট বা বিষয়বস্তু সম্পর্কে বুঝিয়ে দেও। আর এই ট্যাগ গুলো আপনার সাইট / ব্লগ কে ঠিক ভাবে ইনডেক্স হতে সাহায্য করে।
+
+
+
+
+রিসোর্সের লিংকঃ
+
+HTML:		https://banglatech.info/html-%E0%A6%95%E0%A6%BF/
+		http://www.websschool.com/html5/html-tutorial.html
+		https://hinditrust.in/html-kake-bole-html-er-kaj-ki-babohar/
+		https://www.techdiary.dev/nomangazicse/html-er-tzag-smuuh-f10EG6
+		https://cutt.ly/CQtPqUE
+
+strong & b: 	https://cutt.ly/JQtPcc7
+URL: 		https://cutt.ly/RQtASSr
+		https://bnglaworld.blogspot.com/2019/07/url-mane-ki.html
+
+Html Attribute: https://cutt.ly/RQtDjbk
+		http://www.websschool.com/html5/html_attributes.html
+		https://amarcourse.com/html/all-html-attributes-part-1/
+		
+Semantic:	https://kivabe.com/codes/html/html-semantic-elements/
+		http://bangla.salearningschool.com/recent-posts/html5-semantic-elements/
+		https://sattacademy.com/html/html5-semantic-element.php
+
+Meta:		https://www.techtunes.io/web-development/tune-id/564352
+		https://cutt.ly/hQtJ7As
+		http://shoutitbd.blogspot.com/2015/12/what-is-meta-tag-and-how-to-add-meta-tags-on-bloger-blog.html
+
+
+
+
+
+
+
+
+

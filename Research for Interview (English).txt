@@ -1,4 +1,4 @@
-Research:
+Question:
 
 1. What is HTML?
 2. What is the difference between the <strong> and <b> HTML tags?
@@ -37,7 +37,7 @@ Answer:
 
 
 
-Research Link:
+Resourse Link:
 
 HTML:		https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 Bold vs Strong:	https://www.quora.com/What-is-the-difference-between-the-strong-and-b-HTML-tags
@@ -51,14 +51,10 @@ Semantic:	https://www.freecodecamp.org/news/semantic-html5-elements/
 		https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
 Div vs Section:	https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div
-	https://www.w3docs.com/snippets/html/what-is-the-difference-between-section-and-div-elements.html
+		https://www.w3docs.com/snippets/html/what-is-the-difference-between-section-and-div-elements.html
 
 Meta:		https://www.bestinterviewquestion.com/question/what-are-meta-tags-in-html-u5tdt26#
 HTML Version:	https://www.hostinger.com/tutorials/difference-between-html-and-html5
-
-
-
-
 
 
 
